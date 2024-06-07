@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on RIDLE - React Integrated Development and Learning Environment<br>🌱 I’m currently learning Electron , Tauri & Rust<br>👯 I’m looking to collaborate on RIDLE<br><br>Collaborated with Azora ads , Acid Lake Studios<br><br>👨‍💻 All of my projects are available at @adhilshan<br>💬 Ask me about react , vue<br>📫 How to reach me adhilshanrahman@gmail.com<br>📄 Know about my experiences https://adhilshan.web.app/my-resume<br><br>Love To Talk With Machines
+🔭 I’m currently working on RIDLE - React Integrated Development and Learning Environment<br>🌱 I’m a BCA Student<br>👯 I’m looking to collaborate on RIDLE<br><br>Collaborated with Azora ads , Acid Lake Studios<br><br>👨‍💻 All of my projects are available at @adhilshan<br>💬 Ask me about react , vue<br>📫 How to reach me adhilshanrahman@gmail.com<br>📄 Know about my experiences https://adhilshan.web.app/my-resume<br><br>Love To Talk With Machines
 
 
 ## 🌐 Socials:
