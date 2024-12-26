@@ -20,7 +20,7 @@ completion of projects on time.</p>
 
 ## When somebody asks how's your day ?
 My Day 🥲:
-<img src="https://github.com/adhilshan/adhilshan/blob/main/Screenshot%202024-12-26%20143329.png?raw=true" style="width:100%; max-width:400px;">
+<img src="https://github.com/adhilshan/adhilshan/blob/main/Screenshot%202024-12-26%20143329.png?raw=true" width="400">
 ## 🌐 Socials:
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366&logo=whatsapp&logoColor=white)](https://wa.me/+919400312201) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adhil_shan.ap) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adhil-shan-138799260) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adhil48573) 
 
