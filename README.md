@@ -9,14 +9,14 @@
   
 
 # 💫 About Me:
-A professional all-rounder abundant in skills such as graphic design, UI/UX design 
+<p style="text-align:justify;">A professional all-rounder abundant in skills such as graphic design, UI/UX design 
 software development and beta testing which makes an impressive resume: attained 
 my BCA qualification and has always surpassed every clients expectations by 
 providing exquisite designs and applications.Fully capable of interacting with clients in 
 order to grasp what they want and produce superior products. I have an eye for detail 
 while at the same time very good at staying calm when working under stress to ensure 
-completion of projects on time.
-🌱 Working @ Ekah logitech as Developer<br>👨‍💻 All of my projects are available at @adhilshan<br>💬 Ask me about react , vue<br>📫 How to reach me adhilshanrahman@gmail.com<br>📄 Know about my experiences https://adhilshan.web.app/my-resume<br><br>Love To Talk With Machines
+completion of projects on time.</p>
+<br>🌱 Working @ Ekah logitech as Developer<br>👨‍💻 All of my projects are available at @adhilshan<br>💬 Ask me about react , vue<br>📫 How to reach me adhilshanrahman@gmail.com<br>📄 Know about my experiences https://adhilshan.web.app/my-resume<br><br>Love To Talk With Machines
 
 
 ## 🌐 Socials:
