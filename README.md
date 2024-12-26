@@ -9,7 +9,14 @@
   
 
 # 💫 About Me:
-🔭 I’m currently working on RIDLE - React Integrated Development and Learning Environment<br>🌱 Working @ ektruck logitech as App Developer<br>👯 I’m looking to collaborate on RIDLE<br><br>Collaborated with Azora ads , Acid Lake Studios<br><br>👨‍💻 All of my projects are available at @adhilshan<br>💬 Ask me about react , vue<br>📫 How to reach me adhilshanrahman@gmail.com<br>📄 Know about my experiences https://adhilshan.web.app/my-resume<br><br>Love To Talk With Machines
+A professional all-rounder abundant in skills such as graphic design, UI/UX design 
+software development and beta testing which makes an impressive resume: attained 
+my BCA qualification and has always surpassed every clients expectations by 
+providing exquisite designs and applications.Fully capable of interacting with clients in 
+order to grasp what they want and produce superior products. I have an eye for detail 
+while at the same time very good at staying calm when working under stress to ensure 
+completion of projects on time.
+🌱 Working @ Ekah logitech as Developer<br>👨‍💻 All of my projects are available at @adhilshan<br>💬 Ask me about react , vue<br>📫 How to reach me adhilshanrahman@gmail.com<br>📄 Know about my experiences https://adhilshan.web.app/my-resume<br><br>Love To Talk With Machines
 
 
 ## 🌐 Socials:
