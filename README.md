@@ -10,7 +10,7 @@
 </a>
   
 
-I am a passionate developer and content creator, focusing on game development and web technologies. I love building interactive experiences and sharing knowledge with the community.
+I am just a developer, focusing on whatever see in my eye. I love building interactive experiences and sharing knowledge with the community.
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=adhilshan&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
