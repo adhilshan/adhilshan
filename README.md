@@ -11,7 +11,15 @@
   
 
 I am just a developer, focusing on whatever see in my eye. I love building interactive experiences and sharing knowledge with the community.
-
+<p align="center">
+  <a href="https://github.com/adhilshan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adhilshan&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="adhilshan's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=adhilshan&theme=nightowl&hide_border=true&cache_seconds=86400" alt="adhilshan's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=adhilshan&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Adhil Shan's GitHub Trophies" />
+</p>
 <p align="center">
   <a href="https://github.com/adhilshan">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adhilshan&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
@@ -77,8 +85,6 @@ Experienced in:
   
 Thanks for stopping by! Feel free to check out my projects and connect with me. Let's create something amazing together! 🚀
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
