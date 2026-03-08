@@ -1,5 +1,5 @@
 # Hi, I'm Adhil Shan! 👋
-
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Adhil%20Shan&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20JS%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <a href="https://github.com/devxb/gitanimals">
   <img
@@ -13,8 +13,9 @@
 I am just a developer, focusing on whatever see in my eye. I love building interactive experiences and sharing knowledge with the community.
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adhilshan&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhilshan&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  <a href="https://github.com/adhilshan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adhilshan&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -75,3 +76,9 @@ Experienced in:
 
   
 Thanks for stopping by! Feel free to check out my projects and connect with me. Let's create something amazing together! 🚀
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
